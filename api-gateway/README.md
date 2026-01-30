@@ -1,1 +1,0 @@
-# Trading Quant Backend
